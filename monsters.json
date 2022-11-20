@@ -1,0 +1,2006 @@
+{
+    "aboleth": {
+        "index": "aboleth",
+        "name": "Aboleth",
+        "url": "/api/monsters/aboleth",
+        "cr": 10
+    },
+    "acolyte": {
+        "index": "acolyte",
+        "name": "Acolyte",
+        "url": "/api/monsters/acolyte",
+        "cr": 0.25
+    },
+    "adult-black-dragon": {
+        "index": "adult-black-dragon",
+        "name": "Adult Black Dragon",
+        "url": "/api/monsters/adult-black-dragon",
+        "cr": 14
+    },
+    "adult-blue-dragon": {
+        "index": "adult-blue-dragon",
+        "name": "Adult Blue Dragon",
+        "url": "/api/monsters/adult-blue-dragon",
+        "cr": 16
+    },
+    "adult-brass-dragon": {
+        "index": "adult-brass-dragon",
+        "name": "Adult Brass Dragon",
+        "url": "/api/monsters/adult-brass-dragon",
+        "cr": 13
+    },
+    "adult-bronze-dragon": {
+        "index": "adult-bronze-dragon",
+        "name": "Adult Bronze Dragon",
+        "url": "/api/monsters/adult-bronze-dragon",
+        "cr": 15
+    },
+    "adult-copper-dragon": {
+        "index": "adult-copper-dragon",
+        "name": "Adult Copper Dragon",
+        "url": "/api/monsters/adult-copper-dragon",
+        "cr": 14
+    },
+    "adult-gold-dragon": {
+        "index": "adult-gold-dragon",
+        "name": "Adult Gold Dragon",
+        "url": "/api/monsters/adult-gold-dragon",
+        "cr": 17
+    },
+    "adult-green-dragon": {
+        "index": "adult-green-dragon",
+        "name": "Adult Green Dragon",
+        "url": "/api/monsters/adult-green-dragon",
+        "cr": 15
+    },
+    "adult-red-dragon": {
+        "index": "adult-red-dragon",
+        "name": "Adult Red Dragon",
+        "url": "/api/monsters/adult-red-dragon",
+        "cr": 17
+    },
+    "adult-silver-dragon": {
+        "index": "adult-silver-dragon",
+        "name": "Adult Silver Dragon",
+        "url": "/api/monsters/adult-silver-dragon",
+        "cr": 16
+    },
+    "adult-white-dragon": {
+        "index": "adult-white-dragon",
+        "name": "Adult White Dragon",
+        "url": "/api/monsters/adult-white-dragon",
+        "cr": 13
+    },
+    "air-elemental": {
+        "index": "air-elemental",
+        "name": "Air Elemental",
+        "url": "/api/monsters/air-elemental",
+        "cr": 5
+    },
+    "ancient-black-dragon": {
+        "index": "ancient-black-dragon",
+        "name": "Ancient Black Dragon",
+        "url": "/api/monsters/ancient-black-dragon",
+        "cr": 21
+    },
+    "ancient-blue-dragon": {
+        "index": "ancient-blue-dragon",
+        "name": "Ancient Blue Dragon",
+        "url": "/api/monsters/ancient-blue-dragon",
+        "cr": 23
+    },
+    "ancient-brass-dragon": {
+        "index": "ancient-brass-dragon",
+        "name": "Ancient Brass Dragon",
+        "url": "/api/monsters/ancient-brass-dragon",
+        "cr": 20
+    },
+    "ancient-bronze-dragon": {
+        "index": "ancient-bronze-dragon",
+        "name": "Ancient Bronze Dragon",
+        "url": "/api/monsters/ancient-bronze-dragon",
+        "cr": 22
+    },
+    "ancient-copper-dragon": {
+        "index": "ancient-copper-dragon",
+        "name": "Ancient Copper Dragon",
+        "url": "/api/monsters/ancient-copper-dragon",
+        "cr": 21
+    },
+    "ancient-gold-dragon": {
+        "index": "ancient-gold-dragon",
+        "name": "Ancient Gold Dragon",
+        "url": "/api/monsters/ancient-gold-dragon",
+        "cr": 24
+    },
+    "ancient-green-dragon": {
+        "index": "ancient-green-dragon",
+        "name": "Ancient Green Dragon",
+        "url": "/api/monsters/ancient-green-dragon",
+        "cr": 22
+    },
+    "ancient-red-dragon": {
+        "index": "ancient-red-dragon",
+        "name": "Ancient Red Dragon",
+        "url": "/api/monsters/ancient-red-dragon",
+        "cr": 24
+    },
+    "ancient-silver-dragon": {
+        "index": "ancient-silver-dragon",
+        "name": "Ancient Silver Dragon",
+        "url": "/api/monsters/ancient-silver-dragon",
+        "cr": 23
+    },
+    "ancient-white-dragon": {
+        "index": "ancient-white-dragon",
+        "name": "Ancient White Dragon",
+        "url": "/api/monsters/ancient-white-dragon",
+        "cr": 20
+    },
+    "androsphinx": {
+        "index": "androsphinx",
+        "name": "Androsphinx",
+        "url": "/api/monsters/androsphinx",
+        "cr": 17
+    },
+    "animated-armor": {
+        "index": "animated-armor",
+        "name": "Animated Armor",
+        "url": "/api/monsters/animated-armor",
+        "cr": 1
+    },
+    "ankheg": {
+        "index": "ankheg",
+        "name": "Ankheg",
+        "url": "/api/monsters/ankheg",
+        "cr": 2
+    },
+    "ape": {
+        "index": "ape",
+        "name": "Ape",
+        "url": "/api/monsters/ape",
+        "cr": 0.5
+    },
+    "archmage": {
+        "index": "archmage",
+        "name": "Archmage",
+        "url": "/api/monsters/archmage",
+        "cr": 12
+    },
+    "assassin": {
+        "index": "assassin",
+        "name": "Assassin",
+        "url": "/api/monsters/assassin",
+        "cr": 8
+    },
+    "awakened-shrub": {
+        "index": "awakened-shrub",
+        "name": "Awakened Shrub",
+        "url": "/api/monsters/awakened-shrub",
+        "cr": 0
+    },
+    "awakened-tree": {
+        "index": "awakened-tree",
+        "name": "Awakened Tree",
+        "url": "/api/monsters/awakened-tree",
+        "cr": 2
+    },
+    "axe-beak": {
+        "index": "axe-beak",
+        "name": "Axe Beak",
+        "url": "/api/monsters/axe-beak",
+        "cr": 0.25
+    },
+    "azer": {
+        "index": "azer",
+        "name": "Azer",
+        "url": "/api/monsters/azer",
+        "cr": 2
+    },
+    "baboon": {
+        "index": "baboon",
+        "name": "Baboon",
+        "url": "/api/monsters/baboon",
+        "cr": 0
+    },
+    "badger": {
+        "index": "badger",
+        "name": "Badger",
+        "url": "/api/monsters/badger",
+        "cr": 0
+    },
+    "balor": {
+        "index": "balor",
+        "name": "Balor",
+        "url": "/api/monsters/balor",
+        "cr": 19
+    },
+    "bandit": {
+        "index": "bandit",
+        "name": "Bandit",
+        "url": "/api/monsters/bandit",
+        "cr": 0.125
+    },
+    "bandit-captain": {
+        "index": "bandit-captain",
+        "name": "Bandit Captain",
+        "url": "/api/monsters/bandit-captain",
+        "cr": 2
+    },
+    "barbed-devil": {
+        "index": "barbed-devil",
+        "name": "Barbed Devil",
+        "url": "/api/monsters/barbed-devil",
+        "cr": 5
+    },
+    "basilisk": {
+        "index": "basilisk",
+        "name": "Basilisk",
+        "url": "/api/monsters/basilisk",
+        "cr": 3
+    },
+    "bat": {
+        "index": "bat",
+        "name": "Bat",
+        "url": "/api/monsters/bat",
+        "cr": 0
+    },
+    "bearded-devil": {
+        "index": "bearded-devil",
+        "name": "Bearded Devil",
+        "url": "/api/monsters/bearded-devil",
+        "cr": 3
+    },
+    "behir": {
+        "index": "behir",
+        "name": "Behir",
+        "url": "/api/monsters/behir",
+        "cr": 11
+    },
+    "berserker": {
+        "index": "berserker",
+        "name": "Berserker",
+        "url": "/api/monsters/berserker",
+        "cr": 2
+    },
+    "black-bear": {
+        "index": "black-bear",
+        "name": "Black Bear",
+        "url": "/api/monsters/black-bear",
+        "cr": 0.5
+    },
+    "black-dragon-wyrmling": {
+        "index": "black-dragon-wyrmling",
+        "name": "Black Dragon Wyrmling",
+        "url": "/api/monsters/black-dragon-wyrmling",
+        "cr": 2
+    },
+    "black-pudding": {
+        "index": "black-pudding",
+        "name": "Black Pudding",
+        "url": "/api/monsters/black-pudding",
+        "cr": 4
+    },
+    "blink-dog": {
+        "index": "blink-dog",
+        "name": "Blink Dog",
+        "url": "/api/monsters/blink-dog",
+        "cr": 0.25
+    },
+    "blood-hawk": {
+        "index": "blood-hawk",
+        "name": "Blood Hawk",
+        "url": "/api/monsters/blood-hawk",
+        "cr": 0.125
+    },
+    "blue-dragon-wyrmling": {
+        "index": "blue-dragon-wyrmling",
+        "name": "Blue Dragon Wyrmling",
+        "url": "/api/monsters/blue-dragon-wyrmling",
+        "cr": 3
+    },
+    "boar": {
+        "index": "boar",
+        "name": "Boar",
+        "url": "/api/monsters/boar",
+        "cr": 0.25
+    },
+    "bone-devil": {
+        "index": "bone-devil",
+        "name": "Bone Devil",
+        "url": "/api/monsters/bone-devil",
+        "cr": 12
+    },
+    "brass-dragon-wyrmling": {
+        "index": "brass-dragon-wyrmling",
+        "name": "Brass Dragon Wyrmling",
+        "url": "/api/monsters/brass-dragon-wyrmling",
+        "cr": 1
+    },
+    "bronze-dragon-wyrmling": {
+        "index": "bronze-dragon-wyrmling",
+        "name": "Bronze Dragon Wyrmling",
+        "url": "/api/monsters/bronze-dragon-wyrmling",
+        "cr": 2
+    },
+    "brown-bear": {
+        "index": "brown-bear",
+        "name": "Brown Bear",
+        "url": "/api/monsters/brown-bear",
+        "cr": 1
+    },
+    "bugbear": {
+        "index": "bugbear",
+        "name": "Bugbear",
+        "url": "/api/monsters/bugbear",
+        "cr": 1
+    },
+    "bulette": {
+        "index": "bulette",
+        "name": "Bulette",
+        "url": "/api/monsters/bulette",
+        "cr": 5
+    },
+    "camel": {
+        "index": "camel",
+        "name": "Camel",
+        "url": "/api/monsters/camel",
+        "cr": 0.125
+    },
+    "cat": {
+        "index": "cat",
+        "name": "Cat",
+        "url": "/api/monsters/cat",
+        "cr": 0
+    },
+    "centaur": {
+        "index": "centaur",
+        "name": "Centaur",
+        "url": "/api/monsters/centaur",
+        "cr": 2
+    },
+    "chain-devil": {
+        "index": "chain-devil",
+        "name": "Chain Devil",
+        "url": "/api/monsters/chain-devil",
+        "cr": 8
+    },
+    "chimera": {
+        "index": "chimera",
+        "name": "Chimera",
+        "url": "/api/monsters/chimera",
+        "cr": 6
+    },
+    "chuul": {
+        "index": "chuul",
+        "name": "Chuul",
+        "url": "/api/monsters/chuul",
+        "cr": 4
+    },
+    "clay-golem": {
+        "index": "clay-golem",
+        "name": "Clay Golem",
+        "url": "/api/monsters/clay-golem",
+        "cr": 9
+    },
+    "cloaker": {
+        "index": "cloaker",
+        "name": "Cloaker",
+        "url": "/api/monsters/cloaker",
+        "cr": 8
+    },
+    "cloud-giant": {
+        "index": "cloud-giant",
+        "name": "Cloud Giant",
+        "url": "/api/monsters/cloud-giant",
+        "cr": 9
+    },
+    "cockatrice": {
+        "index": "cockatrice",
+        "name": "Cockatrice",
+        "url": "/api/monsters/cockatrice",
+        "cr": 0.5
+    },
+    "commoner": {
+        "index": "commoner",
+        "name": "Commoner",
+        "url": "/api/monsters/commoner",
+        "cr": 0
+    },
+    "constrictor-snake": {
+        "index": "constrictor-snake",
+        "name": "Constrictor Snake",
+        "url": "/api/monsters/constrictor-snake",
+        "cr": 0.25
+    },
+    "copper-dragon-wyrmling": {
+        "index": "copper-dragon-wyrmling",
+        "name": "Copper Dragon Wyrmling",
+        "url": "/api/monsters/copper-dragon-wyrmling",
+        "cr": 1
+    },
+    "couatl": {
+        "index": "couatl",
+        "name": "Couatl",
+        "url": "/api/monsters/couatl",
+        "cr": 4
+    },
+    "crab": {
+        "index": "crab",
+        "name": "Crab",
+        "url": "/api/monsters/crab",
+        "cr": 0
+    },
+    "crocodile": {
+        "index": "crocodile",
+        "name": "Crocodile",
+        "url": "/api/monsters/crocodile",
+        "cr": 0.5
+    },
+    "cult-fanatic": {
+        "index": "cult-fanatic",
+        "name": "Cult Fanatic",
+        "url": "/api/monsters/cult-fanatic",
+        "cr": 2
+    },
+    "cultist": {
+        "index": "cultist",
+        "name": "Cultist",
+        "url": "/api/monsters/cultist",
+        "cr": 0.125
+    },
+    "darkmantle": {
+        "index": "darkmantle",
+        "name": "Darkmantle",
+        "url": "/api/monsters/darkmantle",
+        "cr": 0.5
+    },
+    "death-dog": {
+        "index": "death-dog",
+        "name": "Death Dog",
+        "url": "/api/monsters/death-dog",
+        "cr": 1
+    },
+    "deep-gnome-svirfneblin": {
+        "index": "deep-gnome-svirfneblin",
+        "name": "Deep Gnome (Svirfneblin)",
+        "url": "/api/monsters/deep-gnome-svirfneblin",
+        "cr": 0.5
+    },
+    "deer": {
+        "index": "deer",
+        "name": "Deer",
+        "url": "/api/monsters/deer",
+        "cr": 0
+    },
+    "deva": {
+        "index": "deva",
+        "name": "Deva",
+        "url": "/api/monsters/deva",
+        "cr": 10
+    },
+    "dire-wolf": {
+        "index": "dire-wolf",
+        "name": "Dire Wolf",
+        "url": "/api/monsters/dire-wolf",
+        "cr": 1
+    },
+    "djinni": {
+        "index": "djinni",
+        "name": "Djinni",
+        "url": "/api/monsters/djinni",
+        "cr": 11
+    },
+    "doppelganger": {
+        "index": "doppelganger",
+        "name": "Doppelganger",
+        "url": "/api/monsters/doppelganger",
+        "cr": 3
+    },
+    "draft-horse": {
+        "index": "draft-horse",
+        "name": "Draft Horse",
+        "url": "/api/monsters/draft-horse",
+        "cr": 0.25
+    },
+    "dragon-turtle": {
+        "index": "dragon-turtle",
+        "name": "Dragon Turtle",
+        "url": "/api/monsters/dragon-turtle",
+        "cr": 17
+    },
+    "dretch": {
+        "index": "dretch",
+        "name": "Dretch",
+        "url": "/api/monsters/dretch",
+        "cr": 0.25
+    },
+    "drider": {
+        "index": "drider",
+        "name": "Drider",
+        "url": "/api/monsters/drider",
+        "cr": 6
+    },
+    "drow": {
+        "index": "drow",
+        "name": "Drow",
+        "url": "/api/monsters/drow",
+        "cr": 0.25
+    },
+    "druid": {
+        "index": "druid",
+        "name": "Druid",
+        "url": "/api/monsters/druid",
+        "cr": 2
+    },
+    "dryad": {
+        "index": "dryad",
+        "name": "Dryad",
+        "url": "/api/monsters/dryad",
+        "cr": 1
+    },
+    "duergar": {
+        "index": "duergar",
+        "name": "Duergar",
+        "url": "/api/monsters/duergar",
+        "cr": 1
+    },
+    "dust-mephit": {
+        "index": "dust-mephit",
+        "name": "Dust Mephit",
+        "url": "/api/monsters/dust-mephit",
+        "cr": 0.5
+    },
+    "eagle": {
+        "index": "eagle",
+        "name": "Eagle",
+        "url": "/api/monsters/eagle",
+        "cr": 0
+    },
+    "earth-elemental": {
+        "index": "earth-elemental",
+        "name": "Earth Elemental",
+        "url": "/api/monsters/earth-elemental",
+        "cr": 5
+    },
+    "efreeti": {
+        "index": "efreeti",
+        "name": "Efreeti",
+        "url": "/api/monsters/efreeti",
+        "cr": 11
+    },
+    "elephant": {
+        "index": "elephant",
+        "name": "Elephant",
+        "url": "/api/monsters/elephant",
+        "cr": 4
+    },
+    "elk": {
+        "index": "elk",
+        "name": "Elk",
+        "url": "/api/monsters/elk",
+        "cr": 0.25
+    },
+    "erinyes": {
+        "index": "erinyes",
+        "name": "Erinyes",
+        "url": "/api/monsters/erinyes",
+        "cr": 12
+    },
+    "ettercap": {
+        "index": "ettercap",
+        "name": "Ettercap",
+        "url": "/api/monsters/ettercap",
+        "cr": 2
+    },
+    "ettin": {
+        "index": "ettin",
+        "name": "Ettin",
+        "url": "/api/monsters/ettin",
+        "cr": 4
+    },
+    "fire-elemental": {
+        "index": "fire-elemental",
+        "name": "Fire Elemental",
+        "url": "/api/monsters/fire-elemental",
+        "cr": 5
+    },
+    "fire-giant": {
+        "index": "fire-giant",
+        "name": "Fire Giant",
+        "url": "/api/monsters/fire-giant",
+        "cr": 9
+    },
+    "flesh-golem": {
+        "index": "flesh-golem",
+        "name": "Flesh Golem",
+        "url": "/api/monsters/flesh-golem",
+        "cr": 5
+    },
+    "flying-snake": {
+        "index": "flying-snake",
+        "name": "Flying Snake",
+        "url": "/api/monsters/flying-snake",
+        "cr": 0.125
+    },
+    "flying-sword": {
+        "index": "flying-sword",
+        "name": "Flying Sword",
+        "url": "/api/monsters/flying-sword",
+        "cr": 0.25
+    },
+    "frog": {
+        "index": "frog",
+        "name": "Frog",
+        "url": "/api/monsters/frog",
+        "cr": 0
+    },
+    "frost-giant": {
+        "index": "frost-giant",
+        "name": "Frost Giant",
+        "url": "/api/monsters/frost-giant",
+        "cr": 8
+    },
+    "gargoyle": {
+        "index": "gargoyle",
+        "name": "Gargoyle",
+        "url": "/api/monsters/gargoyle",
+        "cr": 2
+    },
+    "gelatinous-cube": {
+        "index": "gelatinous-cube",
+        "name": "Gelatinous Cube",
+        "url": "/api/monsters/gelatinous-cube",
+        "cr": 2
+    },
+    "ghast": {
+        "index": "ghast",
+        "name": "Ghast",
+        "url": "/api/monsters/ghast",
+        "cr": 2
+    },
+    "ghost": {
+        "index": "ghost",
+        "name": "Ghost",
+        "url": "/api/monsters/ghost",
+        "cr": 4
+    },
+    "ghoul": {
+        "index": "ghoul",
+        "name": "Ghoul",
+        "url": "/api/monsters/ghoul",
+        "cr": 1
+    },
+    "giant-ape": {
+        "index": "giant-ape",
+        "name": "Giant Ape",
+        "url": "/api/monsters/giant-ape",
+        "cr": 7
+    },
+    "giant-badger": {
+        "index": "giant-badger",
+        "name": "Giant Badger",
+        "url": "/api/monsters/giant-badger",
+        "cr": 0.25
+    },
+    "giant-bat": {
+        "index": "giant-bat",
+        "name": "Giant Bat",
+        "url": "/api/monsters/giant-bat",
+        "cr": 0.25
+    },
+    "giant-boar": {
+        "index": "giant-boar",
+        "name": "Giant Boar",
+        "url": "/api/monsters/giant-boar",
+        "cr": 2
+    },
+    "giant-centipede": {
+        "index": "giant-centipede",
+        "name": "Giant Centipede",
+        "url": "/api/monsters/giant-centipede",
+        "cr": 0.25
+    },
+    "giant-constrictor-snake": {
+        "index": "giant-constrictor-snake",
+        "name": "Giant Constrictor Snake",
+        "url": "/api/monsters/giant-constrictor-snake",
+        "cr": 2
+    },
+    "giant-crab": {
+        "index": "giant-crab",
+        "name": "Giant Crab",
+        "url": "/api/monsters/giant-crab",
+        "cr": 0.125
+    },
+    "giant-crocodile": {
+        "index": "giant-crocodile",
+        "name": "Giant Crocodile",
+        "url": "/api/monsters/giant-crocodile",
+        "cr": 5
+    },
+    "giant-eagle": {
+        "index": "giant-eagle",
+        "name": "Giant Eagle",
+        "url": "/api/monsters/giant-eagle",
+        "cr": 1
+    },
+    "giant-elk": {
+        "index": "giant-elk",
+        "name": "Giant Elk",
+        "url": "/api/monsters/giant-elk",
+        "cr": 2
+    },
+    "giant-fire-beetle": {
+        "index": "giant-fire-beetle",
+        "name": "Giant Fire Beetle",
+        "url": "/api/monsters/giant-fire-beetle",
+        "cr": 0
+    },
+    "giant-frog": {
+        "index": "giant-frog",
+        "name": "Giant Frog",
+        "url": "/api/monsters/giant-frog",
+        "cr": 0.25
+    },
+    "giant-goat": {
+        "index": "giant-goat",
+        "name": "Giant Goat",
+        "url": "/api/monsters/giant-goat",
+        "cr": 0.5
+    },
+    "giant-hyena": {
+        "index": "giant-hyena",
+        "name": "Giant Hyena",
+        "url": "/api/monsters/giant-hyena",
+        "cr": 1
+    },
+    "giant-lizard": {
+        "index": "giant-lizard",
+        "name": "Giant Lizard",
+        "url": "/api/monsters/giant-lizard",
+        "cr": 0.25
+    },
+    "giant-octopus": {
+        "index": "giant-octopus",
+        "name": "Giant Octopus",
+        "url": "/api/monsters/giant-octopus",
+        "cr": 1
+    },
+    "giant-owl": {
+        "index": "giant-owl",
+        "name": "Giant Owl",
+        "url": "/api/monsters/giant-owl",
+        "cr": 0.25
+    },
+    "giant-poisonous-snake": {
+        "index": "giant-poisonous-snake",
+        "name": "Giant Poisonous Snake",
+        "url": "/api/monsters/giant-poisonous-snake",
+        "cr": 0.25
+    },
+    "giant-rat": {
+        "index": "giant-rat",
+        "name": "Giant Rat",
+        "url": "/api/monsters/giant-rat",
+        "cr": 0.125
+    },
+    "giant-rat-diseased": {
+        "index": "giant-rat-diseased",
+        "name": "Giant Rat (Diseased)",
+        "url": "/api/monsters/giant-rat-diseased",
+        "cr": 0.125
+    },
+    "giant-scorpion": {
+        "index": "giant-scorpion",
+        "name": "Giant Scorpion",
+        "url": "/api/monsters/giant-scorpion",
+        "cr": 3
+    },
+    "giant-sea-horse": {
+        "index": "giant-sea-horse",
+        "name": "Giant Sea Horse",
+        "url": "/api/monsters/giant-sea-horse",
+        "cr": 0.5
+    },
+    "giant-shark": {
+        "index": "giant-shark",
+        "name": "Giant Shark",
+        "url": "/api/monsters/giant-shark",
+        "cr": 5
+    },
+    "giant-spider": {
+        "index": "giant-spider",
+        "name": "Giant Spider",
+        "url": "/api/monsters/giant-spider",
+        "cr": 1
+    },
+    "giant-toad": {
+        "index": "giant-toad",
+        "name": "Giant Toad",
+        "url": "/api/monsters/giant-toad",
+        "cr": 1
+    },
+    "giant-vulture": {
+        "index": "giant-vulture",
+        "name": "Giant Vulture",
+        "url": "/api/monsters/giant-vulture",
+        "cr": 1
+    },
+    "giant-wasp": {
+        "index": "giant-wasp",
+        "name": "Giant Wasp",
+        "url": "/api/monsters/giant-wasp",
+        "cr": 0.5
+    },
+    "giant-weasel": {
+        "index": "giant-weasel",
+        "name": "Giant Weasel",
+        "url": "/api/monsters/giant-weasel",
+        "cr": 0.125
+    },
+    "giant-wolf-spider": {
+        "index": "giant-wolf-spider",
+        "name": "Giant Wolf Spider",
+        "url": "/api/monsters/giant-wolf-spider",
+        "cr": 0.25
+    },
+    "gibbering-mouther": {
+        "index": "gibbering-mouther",
+        "name": "Gibbering Mouther",
+        "url": "/api/monsters/gibbering-mouther",
+        "cr": 2
+    },
+    "glabrezu": {
+        "index": "glabrezu",
+        "name": "Glabrezu",
+        "url": "/api/monsters/glabrezu",
+        "cr": 9
+    },
+    "gladiator": {
+        "index": "gladiator",
+        "name": "Gladiator",
+        "url": "/api/monsters/gladiator",
+        "cr": 5
+    },
+    "gnoll": {
+        "index": "gnoll",
+        "name": "Gnoll",
+        "url": "/api/monsters/gnoll",
+        "cr": 0.5
+    },
+    "goat": {
+        "index": "goat",
+        "name": "Goat",
+        "url": "/api/monsters/goat",
+        "cr": 0
+    },
+    "goblin": {
+        "index": "goblin",
+        "name": "Goblin",
+        "url": "/api/monsters/goblin",
+        "cr": 0.25
+    },
+    "gold-dragon-wyrmling": {
+        "index": "gold-dragon-wyrmling",
+        "name": "Gold Dragon Wyrmling",
+        "url": "/api/monsters/gold-dragon-wyrmling",
+        "cr": 3
+    },
+    "gorgon": {
+        "index": "gorgon",
+        "name": "Gorgon",
+        "url": "/api/monsters/gorgon",
+        "cr": 5
+    },
+    "gray-ooze": {
+        "index": "gray-ooze",
+        "name": "Gray Ooze",
+        "url": "/api/monsters/gray-ooze",
+        "cr": 0.5
+    },
+    "green-dragon-wyrmling": {
+        "index": "green-dragon-wyrmling",
+        "name": "Green Dragon Wyrmling",
+        "url": "/api/monsters/green-dragon-wyrmling",
+        "cr": 2
+    },
+    "green-hag": {
+        "index": "green-hag",
+        "name": "Green Hag",
+        "url": "/api/monsters/green-hag",
+        "cr": 3
+    },
+    "grick": {
+        "index": "grick",
+        "name": "Grick",
+        "url": "/api/monsters/grick",
+        "cr": 2
+    },
+    "griffon": {
+        "index": "griffon",
+        "name": "Griffon",
+        "url": "/api/monsters/griffon",
+        "cr": 2
+    },
+    "grimlock": {
+        "index": "grimlock",
+        "name": "Grimlock",
+        "url": "/api/monsters/grimlock",
+        "cr": 0.25
+    },
+    "guard": {
+        "index": "guard",
+        "name": "Guard",
+        "url": "/api/monsters/guard",
+        "cr": 0.125
+    },
+    "guardian-naga": {
+        "index": "guardian-naga",
+        "name": "Guardian Naga",
+        "url": "/api/monsters/guardian-naga",
+        "cr": 10
+    },
+    "gynosphinx": {
+        "index": "gynosphinx",
+        "name": "Gynosphinx",
+        "url": "/api/monsters/gynosphinx",
+        "cr": 11
+    },
+    "half-red-dragon-veteran": {
+        "index": "half-red-dragon-veteran",
+        "name": "Half-Red Dragon Veteran",
+        "url": "/api/monsters/half-red-dragon-veteran",
+        "cr": 5
+    },
+    "harpy": {
+        "index": "harpy",
+        "name": "Harpy",
+        "url": "/api/monsters/harpy",
+        "cr": 1
+    },
+    "hawk": {
+        "index": "hawk",
+        "name": "Hawk",
+        "url": "/api/monsters/hawk",
+        "cr": 0
+    },
+    "hell-hound": {
+        "index": "hell-hound",
+        "name": "Hell Hound",
+        "url": "/api/monsters/hell-hound",
+        "cr": 3
+    },
+    "hezrou": {
+        "index": "hezrou",
+        "name": "Hezrou",
+        "url": "/api/monsters/hezrou",
+        "cr": 8
+    },
+    "hill-giant": {
+        "index": "hill-giant",
+        "name": "Hill Giant",
+        "url": "/api/monsters/hill-giant",
+        "cr": 5
+    },
+    "hippogriff": {
+        "index": "hippogriff",
+        "name": "Hippogriff",
+        "url": "/api/monsters/hippogriff",
+        "cr": 1
+    },
+    "hobgoblin": {
+        "index": "hobgoblin",
+        "name": "Hobgoblin",
+        "url": "/api/monsters/hobgoblin",
+        "cr": 0.5
+    },
+    "homunculus": {
+        "index": "homunculus",
+        "name": "Homunculus",
+        "url": "/api/monsters/homunculus",
+        "cr": 0
+    },
+    "horned-devil": {
+        "index": "horned-devil",
+        "name": "Horned Devil",
+        "url": "/api/monsters/horned-devil",
+        "cr": 11
+    },
+    "hunter-shark": {
+        "index": "hunter-shark",
+        "name": "Hunter Shark",
+        "url": "/api/monsters/hunter-shark",
+        "cr": 2
+    },
+    "hydra": {
+        "index": "hydra",
+        "name": "Hydra",
+        "url": "/api/monsters/hydra",
+        "cr": 8
+    },
+    "hyena": {
+        "index": "hyena",
+        "name": "Hyena",
+        "url": "/api/monsters/hyena",
+        "cr": 0
+    },
+    "ice-devil": {
+        "index": "ice-devil",
+        "name": "Ice Devil",
+        "url": "/api/monsters/ice-devil",
+        "cr": 14
+    },
+    "ice-mephit": {
+        "index": "ice-mephit",
+        "name": "Ice Mephit",
+        "url": "/api/monsters/ice-mephit",
+        "cr": 0.5
+    },
+    "imp": {
+        "index": "imp",
+        "name": "Imp",
+        "url": "/api/monsters/imp",
+        "cr": 1
+    },
+    "invisible-stalker": {
+        "index": "invisible-stalker",
+        "name": "Invisible Stalker",
+        "url": "/api/monsters/invisible-stalker",
+        "cr": 6
+    },
+    "iron-golem": {
+        "index": "iron-golem",
+        "name": "Iron Golem",
+        "url": "/api/monsters/iron-golem",
+        "cr": 16
+    },
+    "jackal": {
+        "index": "jackal",
+        "name": "Jackal",
+        "url": "/api/monsters/jackal",
+        "cr": 0
+    },
+    "killer-whale": {
+        "index": "killer-whale",
+        "name": "Killer Whale",
+        "url": "/api/monsters/killer-whale",
+        "cr": 3
+    },
+    "knight": {
+        "index": "knight",
+        "name": "Knight",
+        "url": "/api/monsters/knight",
+        "cr": 3
+    },
+    "kobold": {
+        "index": "kobold",
+        "name": "Kobold",
+        "url": "/api/monsters/kobold",
+        "cr": 0.125
+    },
+    "kraken": {
+        "index": "kraken",
+        "name": "Kraken",
+        "url": "/api/monsters/kraken",
+        "cr": 23
+    },
+    "lamia": {
+        "index": "lamia",
+        "name": "Lamia",
+        "url": "/api/monsters/lamia",
+        "cr": 4
+    },
+    "lemure": {
+        "index": "lemure",
+        "name": "Lemure",
+        "url": "/api/monsters/lemure",
+        "cr": 0
+    },
+    "lich": {
+        "index": "lich",
+        "name": "Lich",
+        "url": "/api/monsters/lich",
+        "cr": 21
+    },
+    "lion": {
+        "index": "lion",
+        "name": "Lion",
+        "url": "/api/monsters/lion",
+        "cr": 1
+    },
+    "lizard": {
+        "index": "lizard",
+        "name": "Lizard",
+        "url": "/api/monsters/lizard",
+        "cr": 0
+    },
+    "lizardfolk": {
+        "index": "lizardfolk",
+        "name": "Lizardfolk",
+        "url": "/api/monsters/lizardfolk",
+        "cr": 0.5
+    },
+    "mage": {
+        "index": "mage",
+        "name": "Mage",
+        "url": "/api/monsters/mage",
+        "cr": 6
+    },
+    "magma-mephit": {
+        "index": "magma-mephit",
+        "name": "Magma Mephit",
+        "url": "/api/monsters/magma-mephit",
+        "cr": 0.5
+    },
+    "magmin": {
+        "index": "magmin",
+        "name": "Magmin",
+        "url": "/api/monsters/magmin",
+        "cr": 0.5
+    },
+    "mammoth": {
+        "index": "mammoth",
+        "name": "Mammoth",
+        "url": "/api/monsters/mammoth",
+        "cr": 6
+    },
+    "manticore": {
+        "index": "manticore",
+        "name": "Manticore",
+        "url": "/api/monsters/manticore",
+        "cr": 3
+    },
+    "marilith": {
+        "index": "marilith",
+        "name": "Marilith",
+        "url": "/api/monsters/marilith",
+        "cr": 16
+    },
+    "mastiff": {
+        "index": "mastiff",
+        "name": "Mastiff",
+        "url": "/api/monsters/mastiff",
+        "cr": 0.125
+    },
+    "medusa": {
+        "index": "medusa",
+        "name": "Medusa",
+        "url": "/api/monsters/medusa",
+        "cr": 6
+    },
+    "merfolk": {
+        "index": "merfolk",
+        "name": "Merfolk",
+        "url": "/api/monsters/merfolk",
+        "cr": 0.125
+    },
+    "merrow": {
+        "index": "merrow",
+        "name": "Merrow",
+        "url": "/api/monsters/merrow",
+        "cr": 2
+    },
+    "mimic": {
+        "index": "mimic",
+        "name": "Mimic",
+        "url": "/api/monsters/mimic",
+        "cr": 2
+    },
+    "minotaur": {
+        "index": "minotaur",
+        "name": "Minotaur",
+        "url": "/api/monsters/minotaur",
+        "cr": 3
+    },
+    "minotaur-skeleton": {
+        "index": "minotaur-skeleton",
+        "name": "Minotaur Skeleton",
+        "url": "/api/monsters/minotaur-skeleton",
+        "cr": 2
+    },
+    "mule": {
+        "index": "mule",
+        "name": "Mule",
+        "url": "/api/monsters/mule",
+        "cr": 0.125
+    },
+    "mummy": {
+        "index": "mummy",
+        "name": "Mummy",
+        "url": "/api/monsters/mummy",
+        "cr": 3
+    },
+    "mummy-lord": {
+        "index": "mummy-lord",
+        "name": "Mummy Lord",
+        "url": "/api/monsters/mummy-lord",
+        "cr": 15
+    },
+    "nalfeshnee": {
+        "index": "nalfeshnee",
+        "name": "Nalfeshnee",
+        "url": "/api/monsters/nalfeshnee",
+        "cr": 13
+    },
+    "night-hag": {
+        "index": "night-hag",
+        "name": "Night Hag",
+        "url": "/api/monsters/night-hag",
+        "cr": 5
+    },
+    "nightmare": {
+        "index": "nightmare",
+        "name": "Nightmare",
+        "url": "/api/monsters/nightmare",
+        "cr": 3
+    },
+    "noble": {
+        "index": "noble",
+        "name": "Noble",
+        "url": "/api/monsters/noble",
+        "cr": 0.125
+    },
+    "ochre-jelly": {
+        "index": "ochre-jelly",
+        "name": "Ochre Jelly",
+        "url": "/api/monsters/ochre-jelly",
+        "cr": 2
+    },
+    "octopus": {
+        "index": "octopus",
+        "name": "Octopus",
+        "url": "/api/monsters/octopus",
+        "cr": 0
+    },
+    "ogre": {
+        "index": "ogre",
+        "name": "Ogre",
+        "url": "/api/monsters/ogre",
+        "cr": 2
+    },
+    "ogre-zombie": {
+        "index": "ogre-zombie",
+        "name": "Ogre Zombie",
+        "url": "/api/monsters/ogre-zombie",
+        "cr": 2
+    },
+    "oni": {
+        "index": "oni",
+        "name": "Oni",
+        "url": "/api/monsters/oni",
+        "cr": 7
+    },
+    "orc": {
+        "index": "orc",
+        "name": "Orc",
+        "url": "/api/monsters/orc",
+        "cr": 0.5
+    },
+    "otyugh": {
+        "index": "otyugh",
+        "name": "Otyugh",
+        "url": "/api/monsters/otyugh",
+        "cr": 5
+    },
+    "owl": {
+        "index": "owl",
+        "name": "Owl",
+        "url": "/api/monsters/owl",
+        "cr": 0
+    },
+    "owlbear": {
+        "index": "owlbear",
+        "name": "Owlbear",
+        "url": "/api/monsters/owlbear",
+        "cr": 3
+    },
+    "panther": {
+        "index": "panther",
+        "name": "Panther",
+        "url": "/api/monsters/panther",
+        "cr": 0.25
+    },
+    "pegasus": {
+        "index": "pegasus",
+        "name": "Pegasus",
+        "url": "/api/monsters/pegasus",
+        "cr": 2
+    },
+    "phase-spider": {
+        "index": "phase-spider",
+        "name": "Phase Spider",
+        "url": "/api/monsters/phase-spider",
+        "cr": 3
+    },
+    "pit-fiend": {
+        "index": "pit-fiend",
+        "name": "Pit Fiend",
+        "url": "/api/monsters/pit-fiend",
+        "cr": 20
+    },
+    "planetar": {
+        "index": "planetar",
+        "name": "Planetar",
+        "url": "/api/monsters/planetar",
+        "cr": 16
+    },
+    "plesiosaurus": {
+        "index": "plesiosaurus",
+        "name": "Plesiosaurus",
+        "url": "/api/monsters/plesiosaurus",
+        "cr": 2
+    },
+    "poisonous-snake": {
+        "index": "poisonous-snake",
+        "name": "Poisonous Snake",
+        "url": "/api/monsters/poisonous-snake",
+        "cr": 0.125
+    },
+    "polar-bear": {
+        "index": "polar-bear",
+        "name": "Polar Bear",
+        "url": "/api/monsters/polar-bear",
+        "cr": 2
+    },
+    "pony": {
+        "index": "pony",
+        "name": "Pony",
+        "url": "/api/monsters/pony",
+        "cr": 0.125
+    },
+    "priest": {
+        "index": "priest",
+        "name": "Priest",
+        "url": "/api/monsters/priest",
+        "cr": 2
+    },
+    "pseudodragon": {
+        "index": "pseudodragon",
+        "name": "Pseudodragon",
+        "url": "/api/monsters/pseudodragon",
+        "cr": 0.25
+    },
+    "purple-worm": {
+        "index": "purple-worm",
+        "name": "Purple Worm",
+        "url": "/api/monsters/purple-worm",
+        "cr": 15
+    },
+    "quasit": {
+        "index": "quasit",
+        "name": "Quasit",
+        "url": "/api/monsters/quasit",
+        "cr": 1
+    },
+    "quipper": {
+        "index": "quipper",
+        "name": "Quipper",
+        "url": "/api/monsters/quipper",
+        "cr": 0
+    },
+    "rakshasa": {
+        "index": "rakshasa",
+        "name": "Rakshasa",
+        "url": "/api/monsters/rakshasa",
+        "cr": 13
+    },
+    "rat": {
+        "index": "rat",
+        "name": "Rat",
+        "url": "/api/monsters/rat",
+        "cr": 0
+    },
+    "raven": {
+        "index": "raven",
+        "name": "Raven",
+        "url": "/api/monsters/raven",
+        "cr": 0
+    },
+    "red-dragon-wyrmling": {
+        "index": "red-dragon-wyrmling",
+        "name": "Red Dragon Wyrmling",
+        "url": "/api/monsters/red-dragon-wyrmling",
+        "cr": 4
+    },
+    "reef-shark": {
+        "index": "reef-shark",
+        "name": "Reef Shark",
+        "url": "/api/monsters/reef-shark",
+        "cr": 0.5
+    },
+    "remorhaz": {
+        "index": "remorhaz",
+        "name": "Remorhaz",
+        "url": "/api/monsters/remorhaz",
+        "cr": 11
+    },
+    "rhinoceros": {
+        "index": "rhinoceros",
+        "name": "Rhinoceros",
+        "url": "/api/monsters/rhinoceros",
+        "cr": 2
+    },
+    "riding-horse": {
+        "index": "riding-horse",
+        "name": "Riding Horse",
+        "url": "/api/monsters/riding-horse",
+        "cr": 0.25
+    },
+    "roc": {
+        "index": "roc",
+        "name": "Roc",
+        "url": "/api/monsters/roc",
+        "cr": 11
+    },
+    "roper": {
+        "index": "roper",
+        "name": "Roper",
+        "url": "/api/monsters/roper",
+        "cr": 5
+    },
+    "rug-of-smothering": {
+        "index": "rug-of-smothering",
+        "name": "Rug of Smothering",
+        "url": "/api/monsters/rug-of-smothering",
+        "cr": 2
+    },
+    "rust-monster": {
+        "index": "rust-monster",
+        "name": "Rust Monster",
+        "url": "/api/monsters/rust-monster",
+        "cr": 0.5
+    },
+    "saber-toothed-tiger": {
+        "index": "saber-toothed-tiger",
+        "name": "Saber-Toothed Tiger",
+        "url": "/api/monsters/saber-toothed-tiger",
+        "cr": 2
+    },
+    "sahuagin": {
+        "index": "sahuagin",
+        "name": "Sahuagin",
+        "url": "/api/monsters/sahuagin",
+        "cr": 0.5
+    },
+    "salamander": {
+        "index": "salamander",
+        "name": "Salamander",
+        "url": "/api/monsters/salamander",
+        "cr": 5
+    },
+    "satyr": {
+        "index": "satyr",
+        "name": "Satyr",
+        "url": "/api/monsters/satyr",
+        "cr": 0.5
+    },
+    "scorpion": {
+        "index": "scorpion",
+        "name": "Scorpion",
+        "url": "/api/monsters/scorpion",
+        "cr": 0
+    },
+    "scout": {
+        "index": "scout",
+        "name": "Scout",
+        "url": "/api/monsters/scout",
+        "cr": 0.5
+    },
+    "sea-hag": {
+        "index": "sea-hag",
+        "name": "Sea Hag",
+        "url": "/api/monsters/sea-hag",
+        "cr": 2
+    },
+    "sea-horse": {
+        "index": "sea-horse",
+        "name": "Sea Horse",
+        "url": "/api/monsters/sea-horse",
+        "cr": 0
+    },
+    "shadow": {
+        "index": "shadow",
+        "name": "Shadow",
+        "url": "/api/monsters/shadow",
+        "cr": 0.5
+    },
+    "shambling-mound": {
+        "index": "shambling-mound",
+        "name": "Shambling Mound",
+        "url": "/api/monsters/shambling-mound",
+        "cr": 5
+    },
+    "shield-guardian": {
+        "index": "shield-guardian",
+        "name": "Shield Guardian",
+        "url": "/api/monsters/shield-guardian",
+        "cr": 7
+    },
+    "shrieker": {
+        "index": "shrieker",
+        "name": "Shrieker",
+        "url": "/api/monsters/shrieker",
+        "cr": 0
+    },
+    "silver-dragon-wyrmling": {
+        "index": "silver-dragon-wyrmling",
+        "name": "Silver Dragon Wyrmling",
+        "url": "/api/monsters/silver-dragon-wyrmling",
+        "cr": 2
+    },
+    "skeleton": {
+        "index": "skeleton",
+        "name": "Skeleton",
+        "url": "/api/monsters/skeleton",
+        "cr": 0.25
+    },
+    "solar": {
+        "index": "solar",
+        "name": "Solar",
+        "url": "/api/monsters/solar",
+        "cr": 21
+    },
+    "specter": {
+        "index": "specter",
+        "name": "Specter",
+        "url": "/api/monsters/specter",
+        "cr": 1
+    },
+    "spider": {
+        "index": "spider",
+        "name": "Spider",
+        "url": "/api/monsters/spider",
+        "cr": 0
+    },
+    "spirit-naga": {
+        "index": "spirit-naga",
+        "name": "Spirit Naga",
+        "url": "/api/monsters/spirit-naga",
+        "cr": 8
+    },
+    "sprite": {
+        "index": "sprite",
+        "name": "Sprite",
+        "url": "/api/monsters/sprite",
+        "cr": 0.25
+    },
+    "spy": {
+        "index": "spy",
+        "name": "Spy",
+        "url": "/api/monsters/spy",
+        "cr": 1
+    },
+    "steam-mephit": {
+        "index": "steam-mephit",
+        "name": "Steam Mephit",
+        "url": "/api/monsters/steam-mephit",
+        "cr": 0.25
+    },
+    "stirge": {
+        "index": "stirge",
+        "name": "Stirge",
+        "url": "/api/monsters/stirge",
+        "cr": 0.125
+    },
+    "stone-giant": {
+        "index": "stone-giant",
+        "name": "Stone Giant",
+        "url": "/api/monsters/stone-giant",
+        "cr": 7
+    },
+    "stone-golem": {
+        "index": "stone-golem",
+        "name": "Stone Golem",
+        "url": "/api/monsters/stone-golem",
+        "cr": 10
+    },
+    "storm-giant": {
+        "index": "storm-giant",
+        "name": "Storm Giant",
+        "url": "/api/monsters/storm-giant",
+        "cr": 13
+    },
+    "succubus-incubus": {
+        "index": "succubus-incubus",
+        "name": "Succubus/Incubus",
+        "url": "/api/monsters/succubus-incubus",
+        "cr": 4
+    },
+    "swarm-of-bats": {
+        "index": "swarm-of-bats",
+        "name": "Swarm of Bats",
+        "url": "/api/monsters/swarm-of-bats",
+        "cr": 0.25
+    },
+    "swarm-of-beetles": {
+        "index": "swarm-of-beetles",
+        "name": "Swarm of Beetles",
+        "url": "/api/monsters/swarm-of-beetles",
+        "cr": 0.5
+    },
+    "swarm-of-centipedes": {
+        "index": "swarm-of-centipedes",
+        "name": "Swarm of Centipedes",
+        "url": "/api/monsters/swarm-of-centipedes",
+        "cr": 0.5
+    },
+    "swarm-of-insects": {
+        "index": "swarm-of-insects",
+        "name": "Swarm of Insects",
+        "url": "/api/monsters/swarm-of-insects",
+        "cr": 0.5
+    },
+    "swarm-of-poisonous-snakes": {
+        "index": "swarm-of-poisonous-snakes",
+        "name": "Swarm of Poisonous Snakes",
+        "url": "/api/monsters/swarm-of-poisonous-snakes",
+        "cr": 2
+    },
+    "swarm-of-quippers": {
+        "index": "swarm-of-quippers",
+        "name": "Swarm of Quippers",
+        "url": "/api/monsters/swarm-of-quippers",
+        "cr": 1
+    },
+    "swarm-of-rats": {
+        "index": "swarm-of-rats",
+        "name": "Swarm of Rats",
+        "url": "/api/monsters/swarm-of-rats",
+        "cr": 0.25
+    },
+    "swarm-of-ravens": {
+        "index": "swarm-of-ravens",
+        "name": "Swarm of Ravens",
+        "url": "/api/monsters/swarm-of-ravens",
+        "cr": 0.25
+    },
+    "swarm-of-spiders": {
+        "index": "swarm-of-spiders",
+        "name": "Swarm of Spiders",
+        "url": "/api/monsters/swarm-of-spiders",
+        "cr": 0.5
+    },
+    "swarm-of-wasps": {
+        "index": "swarm-of-wasps",
+        "name": "Swarm of Wasps",
+        "url": "/api/monsters/swarm-of-wasps",
+        "cr": 0.5
+    },
+    "tarrasque": {
+        "index": "tarrasque",
+        "name": "Tarrasque",
+        "url": "/api/monsters/tarrasque",
+        "cr": 30
+    },
+    "thug": {
+        "index": "thug",
+        "name": "Thug",
+        "url": "/api/monsters/thug",
+        "cr": 0.5
+    },
+    "tiger": {
+        "index": "tiger",
+        "name": "Tiger",
+        "url": "/api/monsters/tiger",
+        "cr": 1
+    },
+    "treant": {
+        "index": "treant",
+        "name": "Treant",
+        "url": "/api/monsters/treant",
+        "cr": 9
+    },
+    "tribal-warrior": {
+        "index": "tribal-warrior",
+        "name": "Tribal Warrior",
+        "url": "/api/monsters/tribal-warrior",
+        "cr": 0.125
+    },
+    "triceratops": {
+        "index": "triceratops",
+        "name": "Triceratops",
+        "url": "/api/monsters/triceratops",
+        "cr": 5
+    },
+    "troll": {
+        "index": "troll",
+        "name": "Troll",
+        "url": "/api/monsters/troll",
+        "cr": 5
+    },
+    "tyrannosaurus-rex": {
+        "index": "tyrannosaurus-rex",
+        "name": "Tyrannosaurus Rex",
+        "url": "/api/monsters/tyrannosaurus-rex",
+        "cr": 8
+    },
+    "unicorn": {
+        "index": "unicorn",
+        "name": "Unicorn",
+        "url": "/api/monsters/unicorn",
+        "cr": 5
+    },
+    "vampire-bat": {
+        "index": "vampire-bat",
+        "name": "Vampire, Bat Form",
+        "url": "/api/monsters/vampire-bat",
+        "cr": 13
+    },
+    "vampire-mist": {
+        "index": "vampire-mist",
+        "name": "Vampire, Mist Form",
+        "url": "/api/monsters/vampire-mist",
+        "cr": 13
+    },
+    "vampire-spawn": {
+        "index": "vampire-spawn",
+        "name": "Vampire Spawn",
+        "url": "/api/monsters/vampire-spawn",
+        "cr": 5
+    },
+    "vampire-vampire": {
+        "index": "vampire-vampire",
+        "name": "Vampire, Vampire Form",
+        "url": "/api/monsters/vampire-vampire",
+        "cr": 13
+    },
+    "veteran": {
+        "index": "veteran",
+        "name": "Veteran",
+        "url": "/api/monsters/veteran",
+        "cr": 3
+    },
+    "violet-fungus": {
+        "index": "violet-fungus",
+        "name": "Violet Fungus",
+        "url": "/api/monsters/violet-fungus",
+        "cr": 0.25
+    },
+    "vrock": {
+        "index": "vrock",
+        "name": "Vrock",
+        "url": "/api/monsters/vrock",
+        "cr": 6
+    },
+    "vulture": {
+        "index": "vulture",
+        "name": "Vulture",
+        "url": "/api/monsters/vulture",
+        "cr": 0
+    },
+    "warhorse": {
+        "index": "warhorse",
+        "name": "Warhorse",
+        "url": "/api/monsters/warhorse",
+        "cr": 0.5
+    },
+    "warhorse-skeleton": {
+        "index": "warhorse-skeleton",
+        "name": "Warhorse Skeleton",
+        "url": "/api/monsters/warhorse-skeleton",
+        "cr": 0.5
+    },
+    "water-elemental": {
+        "index": "water-elemental",
+        "name": "Water Elemental",
+        "url": "/api/monsters/water-elemental",
+        "cr": 5
+    },
+    "weasel": {
+        "index": "weasel",
+        "name": "Weasel",
+        "url": "/api/monsters/weasel",
+        "cr": 0
+    },
+    "werebear-bear": {
+        "index": "werebear-bear",
+        "name": "Werebear, Bear Form",
+        "url": "/api/monsters/werebear-bear",
+        "cr": 5
+    },
+    "werebear-human": {
+        "index": "werebear-human",
+        "name": "Werebear, Human Form",
+        "url": "/api/monsters/werebear-human",
+        "cr": 5
+    },
+    "werebear-hybrid": {
+        "index": "werebear-hybrid",
+        "name": "Werebear, Hybrid Form",
+        "url": "/api/monsters/werebear-hybrid",
+        "cr": 5
+    },
+    "wereboar-boar": {
+        "index": "wereboar-boar",
+        "name": "Wereboar, Boar Form",
+        "url": "/api/monsters/wereboar-boar",
+        "cr": 4
+    },
+    "wereboar-human": {
+        "index": "wereboar-human",
+        "name": "Wereboar, Human Form",
+        "url": "/api/monsters/wereboar-human",
+        "cr": 4
+    },
+    "wereboar-hybrid": {
+        "index": "wereboar-hybrid",
+        "name": "Wereboar, Hybrid Form",
+        "url": "/api/monsters/wereboar-hybrid",
+        "cr": 4
+    },
+    "wererat-human": {
+        "index": "wererat-human",
+        "name": "Wererat, Human Form",
+        "url": "/api/monsters/wererat-human",
+        "cr": 2
+    },
+    "wererat-hybrid": {
+        "index": "wererat-hybrid",
+        "name": "Wererat, Hybrid Form",
+        "url": "/api/monsters/wererat-hybrid",
+        "cr": 2
+    },
+    "wererat-rat": {
+        "index": "wererat-rat",
+        "name": "Wererat, Rat Form",
+        "url": "/api/monsters/wererat-rat",
+        "cr": 2
+    },
+    "weretiger-human": {
+        "index": "weretiger-human",
+        "name": "Weretiger, Human Form",
+        "url": "/api/monsters/weretiger-human",
+        "cr": 4
+    },
+    "weretiger-hybrid": {
+        "index": "weretiger-hybrid",
+        "name": "Weretiger, Hybrid Form",
+        "url": "/api/monsters/weretiger-hybrid",
+        "cr": 4
+    },
+    "weretiger-tiger": {
+        "index": "weretiger-tiger",
+        "name": "Weretiger, Tiger Form",
+        "url": "/api/monsters/weretiger-tiger",
+        "cr": 4
+    },
+    "werewolf-human": {
+        "index": "werewolf-human",
+        "name": "Werewolf, Human Form",
+        "url": "/api/monsters/werewolf-human",
+        "cr": 3
+    },
+    "werewolf-hybrid": {
+        "index": "werewolf-hybrid",
+        "name": "Werewolf, Hybrid Form",
+        "url": "/api/monsters/werewolf-hybrid",
+        "cr": 3
+    },
+    "werewolf-wolf": {
+        "index": "werewolf-wolf",
+        "name": "Werewolf, Wolf Form",
+        "url": "/api/monsters/werewolf-wolf",
+        "cr": 3
+    },
+    "white-dragon-wyrmling": {
+        "index": "white-dragon-wyrmling",
+        "name": "White Dragon Wyrmling",
+        "url": "/api/monsters/white-dragon-wyrmling",
+        "cr": 2
+    },
+    "wight": {
+        "index": "wight",
+        "name": "Wight",
+        "url": "/api/monsters/wight",
+        "cr": 3
+    },
+    "will-o-wisp": {
+        "index": "will-o-wisp",
+        "name": "Will-o'-Wisp",
+        "url": "/api/monsters/will-o-wisp",
+        "cr": 2
+    },
+    "winter-wolf": {
+        "index": "winter-wolf",
+        "name": "Winter Wolf",
+        "url": "/api/monsters/winter-wolf",
+        "cr": 3
+    },
+    "wolf": {
+        "index": "wolf",
+        "name": "Wolf",
+        "url": "/api/monsters/wolf",
+        "cr": 0.25
+    },
+    "worg": {
+        "index": "worg",
+        "name": "Worg",
+        "url": "/api/monsters/worg",
+        "cr": 0.5
+    },
+    "wraith": {
+        "index": "wraith",
+        "name": "Wraith",
+        "url": "/api/monsters/wraith",
+        "cr": 5
+    },
+    "wyvern": {
+        "index": "wyvern",
+        "name": "Wyvern",
+        "url": "/api/monsters/wyvern",
+        "cr": 6
+    },
+    "xorn": {
+        "index": "xorn",
+        "name": "Xorn",
+        "url": "/api/monsters/xorn",
+        "cr": 5
+    },
+    "young-black-dragon": {
+        "index": "young-black-dragon",
+        "name": "Young Black Dragon",
+        "url": "/api/monsters/young-black-dragon",
+        "cr": 7
+    },
+    "young-blue-dragon": {
+        "index": "young-blue-dragon",
+        "name": "Young Blue Dragon",
+        "url": "/api/monsters/young-blue-dragon",
+        "cr": 9
+    },
+    "young-brass-dragon": {
+        "index": "young-brass-dragon",
+        "name": "Young Brass Dragon",
+        "url": "/api/monsters/young-brass-dragon",
+        "cr": 6
+    },
+    "young-bronze-dragon": {
+        "index": "young-bronze-dragon",
+        "name": "Young Bronze Dragon",
+        "url": "/api/monsters/young-bronze-dragon",
+        "cr": 8
+    },
+    "young-copper-dragon": {
+        "index": "young-copper-dragon",
+        "name": "Young Copper Dragon",
+        "url": "/api/monsters/young-copper-dragon",
+        "cr": 7
+    },
+    "young-gold-dragon": {
+        "index": "young-gold-dragon",
+        "name": "Young Gold Dragon",
+        "url": "/api/monsters/young-gold-dragon",
+        "cr": 10
+    },
+    "young-green-dragon": {
+        "index": "young-green-dragon",
+        "name": "Young Green Dragon",
+        "url": "/api/monsters/young-green-dragon",
+        "cr": 8
+    },
+    "young-red-dragon": {
+        "index": "young-red-dragon",
+        "name": "Young Red Dragon",
+        "url": "/api/monsters/young-red-dragon",
+        "cr": 10
+    },
+    "young-silver-dragon": {
+        "index": "young-silver-dragon",
+        "name": "Young Silver Dragon",
+        "url": "/api/monsters/young-silver-dragon",
+        "cr": 9
+    },
+    "young-white-dragon": {
+        "index": "young-white-dragon",
+        "name": "Young White Dragon",
+        "url": "/api/monsters/young-white-dragon",
+        "cr": 6
+    },
+    "zombie": {
+        "index": "zombie",
+        "name": "Zombie",
+        "url": "/api/monsters/zombie",
+        "cr": 0.25
+    }
+}
