@@ -7,6 +7,7 @@ from tkinter import filedialog
 import tkinter_shortcuts as tksh
 from PIL import Image, ImageDraw
 import dungen_Pillow as dP
+import dungeon_utils as utils
 
 scriptdir = os.path.abspath(os.path.dirname(sys.argv[0]))
 
@@ -69,12 +70,26 @@ class Room():
         self.y_axis_start = y_axis_start
         self.x_axis_end = self.x_axis_start + self.x_size
         self.y_axis_end = self.y_axis_start + self.y_size
+        self.spaces_occupying = []
+        for i in range(self.x_size):
+            occ_y_start = self.y_axis_start
+            occ_y_end = self.y_axis_end
+            occ_x = i + self.x_axis_start
+            occ_row = {
+                "x": occ_x,
+                "y": {
+                    "start": occ_y_start,
+                    "end": occ_y_end
+                }
+            }
+            self.spaces_occupying.append(occ_row)
         dP.draw_room(self.x_axis_start, self.y_axis_start, self.x_axis_end, self.y_axis_end, image=image)
         self.connected_rooms = [] # make it like a linked list
         #gen some lore here? & fill room
 
 test_dungeon = Dungeon(50, 50, '', '')
 test_dungeon.add_rooms(2)
+print(test_dungeon.rooms[0].spaces_occupying)
 
 
 root.mainloop()
