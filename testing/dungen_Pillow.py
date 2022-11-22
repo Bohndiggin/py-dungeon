@@ -27,7 +27,6 @@ def connect_rooms():
 
 # blank_slate.save(file_name, 'PNG')
 
-
 # im = Image.open('picture.ppm')
 
 # print(blank_slate.format, blank_slate.size, blank_slate.mode)
